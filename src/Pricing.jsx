@@ -7,8 +7,6 @@ function Pricing() {
   return (
     <>
       <Header />
-      
-      
         <Title titleName="Pricing"/>
         {/* <h1 className="pricing-title">Pricing</h1> */}
         <main className="pricing-container">
@@ -34,14 +32,8 @@ function Pricing() {
           </div>
 
           <div className="pricing-card">
-            <h2>Pedicure</h2>
-            <p className="price">$50</p>
-            <p>Foot soak, exfoliation, nail care & polish.</p>
-          </div>
-
-          <div className="pricing-card">
             <h2>Custom Nail Art</h2>
-            <p className="price">From $15</p>
+            <p className="price">From $10</p>
             <p>Beautiful hand-painted designs to express yourself.</p>
           </div>
         </div>

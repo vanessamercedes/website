@@ -1,8 +1,8 @@
 {
-  "name": "nailswebsite",
+  "name": "website",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://kiwihorsegirl.github.io/NailsWebsiteRepo",
+  "homepage": "https://vanessamercedes.github.io/website",
   "type": "module",
   "scripts": {
     "dev": "vite",

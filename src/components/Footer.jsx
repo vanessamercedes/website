@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer className="footer">
       <div className="footer-section brand">
-        <h3>Vanessa's Nails</h3>
+        <h3>Nessalonverse</h3>
         <p>Professional nail care, quality service, and stunning designs.</p>
       </div>
 
@@ -14,7 +14,7 @@ const Footer = () => {
           <li><a href="/NailsWebsiteRepo/">Home</a></li>
           <li><a href="/NailsWebsiteRepo/bookings">Bookings</a></li>
           <li><a href="/NailsWebsiteRepo/pricing">Pricing</a></li>
-          <li><a href="/NailsWebsiteRepo/location">Location</a></li>
+          {/* <li><a href="/NailsWebsiteRepo/location">Location</a></li> */}
           <li><a href="/NailsWebsiteRepo/contact">Contact</a></li>
         </ul>
       </div>
@@ -23,16 +23,16 @@ const Footer = () => {
         <h3>Connect</h3>
         <p>Follow on Instagram:</p>
         <a 
-          href="https://instagram.com/vanessamercedes_nails" 
+          href="https://instagram.com/nessalonverse" 
           target="_blank" 
           rel="noopener noreferrer"
         >
-          @vanessamercedes_nails
+          @nessalonverse
         </a>
       </div>
 
       <div className="footer-bottom">
-        <p>&copy; {new Date().getFullYear()} Vanessa's Nails. All rights reserved.</p>
+        <p>&copy; {new Date().getFullYear()} Nessalonverse. All rights reserved.</p>
       </div>
     </footer>
   );

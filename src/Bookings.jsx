@@ -7,16 +7,24 @@ function Bookings() {
   return (
     <>
       <Header />
+      <Title titleName="Bookings" />
       <main className="bookings-container">
-        <Title titleName="Bookings" />
+        
+        
+        {/* <iframe 
+          src="https://elisasnails.simplybook.me/v2/" 
+          width="100%" 
+          height="600px" 
+          frameborder="0">
+        </iframe> */}
 
         <div className='intro'>
           <section className="booking-info">
             <h3>How to Book</h3>
             <p>
-              To schedule an appointment, please contact me via Instagram direct messages{" "}
-              <a href="https://instagram.com/vanessamercedes_nails" target="_blank" rel="noopener noreferrer">
-                @vanessamercedes_nails.
+              To schedule an appointment, please contact me via instagram direct messages{" "}
+              <a href="https://instagram.com/nessalonverse" target="_blank" rel="noopener noreferrer">
+                @nessalonverse.
               </a>
               </p>
             <p>Appointments are confirmed once a deposit is received.</p>

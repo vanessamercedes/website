@@ -12,7 +12,7 @@ function Homepage() {
       <Header />
 
       <main className="homepage-content">
-        <h1 className="Heading">Vanessa Mercedes Nails</h1>
+        <h1 className="Heading">Nessalsonverse</h1>
 
         <section className="intro">
           <img src={vanessaImg} className="headshotImg" alt="Vanessa" />
@@ -21,11 +21,10 @@ function Homepage() {
             <h2 className="name">Hi, I&apos;m Vanessa!</h2>
             <p className="description">
               I'm a passionate nail artist based in Manukau, Auckland. I specialize in creating elegant, creative, and custom nail designs that reflect your unique style. 
-              Whether you're after a classic set, something trendy, or bold nail art, I'm here to bring your nail dreams to life.
+              Whether you're after a classic set, something trendy, or bold nail art, I'm here to bring your vision to life.
             </p>
             <p className="description">
               With a focus on quality, hygiene, and care, I ensure every appointment is a relaxing and rewarding experience. 
-              I can&apos;t wait to make your nails your new favourite accessory!
             </p>
           </div>
         </section>

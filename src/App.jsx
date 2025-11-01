@@ -8,7 +8,8 @@ import Contact from './Contact';
 
 function App() {
   return (
-    <Router basename='/NailsWebsiteRepo'>
+    // Changed
+    <Router basename='/website'>
       <Routes>
         <Route path="/" element={<Homepage />} />
         <Route path="/bookings" element={<Bookings />} />
