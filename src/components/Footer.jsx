@@ -11,11 +11,11 @@ const Footer = () => {
       <div className="footer-section links">
         <h3>Quick Links</h3>
         <ul>
-          <li><a href="/NailsWebsiteRepo/">Home</a></li>
-          <li><a href="/NailsWebsiteRepo/bookings">Bookings</a></li>
-          <li><a href="/NailsWebsiteRepo/pricing">Pricing</a></li>
-          {/* <li><a href="/NailsWebsiteRepo/location">Location</a></li> */}
-          <li><a href="/NailsWebsiteRepo/contact">Contact</a></li>
+          <li><a href="/website/">Home</a></li>
+          <li><a href="/website/bookings">Bookings</a></li>
+          <li><a href="/website/pricing">Pricing</a></li>
+          {/* <li><a href="/website/location">Location</a></li> */}
+          <li><a href="/website/contact">Contact</a></li>
         </ul>
       </div>
 
