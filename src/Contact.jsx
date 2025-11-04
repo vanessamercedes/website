@@ -9,8 +9,6 @@ function Contact() {
       <Header />
       <Title titleName="Contact" />
       <main className="contact-container">
-        
-
         <p className="contact-subtitle">
           For bookings, availability, or questions, please get in touch via the details below.
         </p>

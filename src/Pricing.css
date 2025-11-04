@@ -1,4 +1,4 @@
-.pricing-container {
+  .pricing-container {
     max-width: 900px;
     margin: 40px auto 80px;
     padding: 0 20px;
@@ -17,8 +17,8 @@
   
   .pricing-subtitle {
     font-size: 1.2rem;
-    color: #111111;
-    margin-bottom: 40px;
+    color: #333;
+    margin-bottom: 30px;
   }
   
   .pricing-cards {

@@ -9,7 +9,9 @@ function Bookings() {
       <Header />
       <Title titleName="Bookings" />
       <main className="bookings-container">
-        
+        <p className="bookings-subtitle">
+        Appointment scheduling information below. Please read the policies before booking.
+        </p>
         
         {/* <iframe 
           src="https://elisasnails.simplybook.me/v2/" 
@@ -17,8 +19,11 @@ function Bookings() {
           height="600px" 
           frameborder="0">
         </iframe> */}
+        <div className='bookings-div'>
 
-        <div className='intro'>
+        {/* </div> */}
+
+        {/* <div className='intro'> */}
           <section className="booking-info">
             <h3>How to Book</h3>
             <p>
